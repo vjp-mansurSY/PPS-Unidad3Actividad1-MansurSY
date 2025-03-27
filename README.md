@@ -23,6 +23,14 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 2. Coloca dentro de ella el archivo [docker-compose.yml](./entornoMaquinasInseguras/docker-compose.yml) que tienes en la carpeta entornoMaquinasInseguras de este repositorio: 
 3. Levanta el escenario multicontedor con `docker-compose up -d`
 
+   ![image](https://github.com/user-attachments/assets/216c6e01-4d4a-43b0-857b-133a6e70d3cf)
+
+
+   ![image](https://github.com/user-attachments/assets/0e570388-3d4d-417c-8b48-866cc4508eee)
+
+   
+
+
 ## Entorno de pruebas
 
 Vamos también a crear un entorno de pruebas en los que vamos a realizar las prácticas, creando servidores y archivos con vulnerabiliades presentes, para corregirlas posteriormente.
