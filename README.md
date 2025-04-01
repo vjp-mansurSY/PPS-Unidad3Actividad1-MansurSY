@@ -59,14 +59,6 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
    ![image](https://github.com/user-attachments/assets/8b116b94-04e6-4fbc-8e6d-9b8e37ce0bf4)
 
 
-
-
-
-
-
-   
-
-
 ## Entorno de pruebas
 
 Vamos también a crear un entorno de pruebas en los que vamos a realizar las prácticas, creando servidores y archivos con vulnerabiliades presentes, para corregirlas posteriormente.
@@ -89,6 +81,9 @@ En esta ocasión vamos utilizar la segunda opción, crearemos un escenario multi
 > docker compose up -d
 > // visit localhost
 > ~~~
+
+![image](https://github.com/user-attachments/assets/620d03e7-a4e1-4e52-87f6-07f5e4ab1df0)
+
 Veamos:
 - Clonamos el repositorio en nuestro equipo local.
 - Entramos dentro de la carpeta del proyecto.
@@ -169,6 +164,8 @@ Por otra parte tenemos también los puertos que utilizarán las máquinas y las 
 >	- BBDD
 >	- Usuario de BBDD
 
+![image](https://github.com/user-attachments/assets/abad402b-424a-4293-8dc7-880189cae4b0)
+
 Aquí finalizaría la configuración de nuestro escenario multicontenedor. Seguimos con pasos:
 - Levantar el escenario con docker-compose up -d 
 
@@ -184,3 +181,8 @@ Ya si podemos levantar el escenario multicontenedor:
 ~~~
 docker-compose up -d
 ~~~
+
+![image](https://github.com/user-attachments/assets/4c212bf5-3575-482c-9562-c3cb17eadda8)
+
+
+![image](https://github.com/user-attachments/assets/a067636a-96e3-469d-925e-7985c3c6d9c2)
