@@ -28,6 +28,42 @@ Para ello tan sólo tenemos que realizar los siguientes pasos:
 
    ![image](https://github.com/user-attachments/assets/0e570388-3d4d-417c-8b48-866cc4508eee)
 
+
+   ![image](https://github.com/user-attachments/assets/bab8fcda-4f93-4e42-88cb-a3e562dd3307)
+
+
+   ![image](https://github.com/user-attachments/assets/af111491-b367-4cd3-9911-d8e4552912db)
+
+
+   ![image](https://github.com/user-attachments/assets/29c17eee-51ec-482f-af69-21317c023f1e)
+
+
+   ![image](https://github.com/user-attachments/assets/904157d9-2449-4d0e-886f-21170de94c32)
+
+
+   ![image](https://github.com/user-attachments/assets/2211cd39-32d8-4301-9e31-fbaf7d6a9e12)
+
+
+   ![image](https://github.com/user-attachments/assets/6889a732-90d6-42b6-8425-d08028096b14)
+
+
+   ![image](https://github.com/user-attachments/assets/0c5218f0-9d25-469f-b1bf-dde34bc9a603)
+
+
+   ![image](https://github.com/user-attachments/assets/8c23cf4e-1055-492d-83cb-e5590751fd89)
+
+
+   ![image](https://github.com/user-attachments/assets/574f5244-78f4-4ff8-b479-9000a44a7028)
+
+
+   ![image](https://github.com/user-attachments/assets/8b116b94-04e6-4fbc-8e6d-9b8e37ce0bf4)
+
+
+
+
+
+
+
    
 
 
